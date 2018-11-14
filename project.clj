@@ -1,5 +1,5 @@
-(defproject gorilla-renderable "1.0.0"
+(defproject org.clojars.gscacco/gorilla-renderable "0.5.0"
   :description "The protocol for custom rendering in gorilla REPL."
-  :url "https://github.com/JonyEpsilon/gorilla-renderable"
+  :url "https://github.com/gscacco/gorilla-renderable.git"
   :license {:name "MIT"}
-  :dependencies [[org.clojure/clojure "1.5.1"]])
+  :dependencies [[org.clojure/clojure "1.9.0"]])
